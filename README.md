@@ -39,6 +39,7 @@
 - The first demo is written with `Python` only
 - The second demo is written with Kivy's `KV` language, as well as a minimal amount of required `Python` boilerplate
   - `KV` is a simple, easy-to-read markup language based on`YAML`
+  - basic python scripting is possible within `KV`, which can be used for dynamic property assignment and widget event callbacks
 
 **Demo 1 (Python):**  
 - [**`Demos/KivyDemo-Python/main.py`**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Demos/KivyDemo-Python/main.py)   
