@@ -15,7 +15,7 @@
 - User-made widgets & extensions  
 
 **Examples:**  
-- [**Kivy Garden - Selected Examples**]()  
+- [**Kivy Garden - Selected Examples**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Kivy%20Garden/Kivy%20Garden.md)  
 
 &nbsp;  
 
