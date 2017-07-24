@@ -10,6 +10,12 @@
 
 &nbsp;  
 
+# [garden.joystick](https://github.com/kivy-garden/garden.joystick)
+
+![Joystick](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Kivy%20Garden/Joystick.gif?raw=true)
+
+&nbsp;  
+
 # [garden.rotabox](https://github.com/kivy-garden/garden.rotabox)
 
 A widget with rotative collision detection, custom bounds and multitouch interactivity.
