@@ -1,3 +1,7 @@
+![Kivy Logo](http://i.imgur.com/SFEdP9W.png)  
+
+&nbsp;  
+
 # Overview  
 
 [**Kivy - Main Page**](https://kivy.org)  
