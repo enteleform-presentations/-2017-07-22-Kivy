@@ -43,10 +43,11 @@
 
 **Demo 1 (Python):**  
 - `Demos/KivyDemo-Python/main.py`  
+- [**`Demos/KivyDemo-Python/main.py`**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Demos/KivyDemo-Python/main.py)   
 
 **Demo 2 (KV):**  
-- `Demos/KivyDemo-KV/main.py`  
-- `Demos/KivyDemo-KV/demo.kv`  
+- [**`Demos/KivyDemo-KV/main.py`**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Demos/KivyDemo-KV/main.py)   
+- [**`Demos/KivyDemo-KV/demo.kv`**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Demos/KivyDemo-KV/demo.kv)   
 
 &nbsp;  
 
