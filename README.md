@@ -5,7 +5,7 @@
 - Licensing  
 
 **Demo:**  
-- `kivy/examples/demo/kivycatalog/main.py`  
+- `kivy/examples/demo/kivycatalog/main.py` ([**@ GitHub**](https://github.com/kivy/kivy/tree/master/examples/demo/kivycatalog))  
 
 &nbsp;  
 
@@ -25,7 +25,7 @@
 - Has a more modern look than the stock Kivy widget set, which follows Google's previous Holo Design specification  
 
 **Demo:**  
-- `KivyMD/demos/kitchen_sink/main.py`  
+- `KivyMD/demos/kitchen_sink/main.py` ([**@ GitLab**](https://gitlab.com/kivymd/KivyMD/tree/master/demos/kitchen_sink))  
 
 &nbsp;  
 
