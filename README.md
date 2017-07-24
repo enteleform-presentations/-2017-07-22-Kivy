@@ -37,11 +37,11 @@
 - The second demo is written with Kivy's `KV` language, as well as a minimal amount of required `Python` boilerplate.&nbsp;  `KV` is a simple, easy-to-read markup language which is based on`YAML`.
 
 **Demo 1 (Python):**  
-- `KivyDemo-Python/main.py`  
+- `Demos/KivyDemo-Python/main.py`  
 
 **Demo 2 (KV):**  
-- `KivyDemo-KV/main.py`  
-- `KivyDemo-KV/demo.kv`  
+- `Demos/KivyDemo-KV/main.py`  
+- `Demos/KivyDemo-KV/demo.kv`  
 
 &nbsp;  
 
