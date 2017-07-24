@@ -35,7 +35,6 @@
 
 # Basic Examples + Code Walkthrough  
 
-**Notes:**  
 - Both examples produce an identical application, in terms of layout & functionality
 - The first demo is written with `Python` only
 - The second demo is written with Kivy's `KV` language, as well as a minimal amount of required `Python` boilerplate
