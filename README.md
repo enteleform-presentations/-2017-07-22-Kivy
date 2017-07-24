@@ -47,5 +47,5 @@
 
 # Resources:  
 
-- [**Kivy Resources**]()  
+- [**Kivy Resources**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Resources.md)  
 
