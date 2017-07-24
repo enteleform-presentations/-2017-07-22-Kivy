@@ -39,7 +39,7 @@
 - Both examples produce an identical application, in terms of layout & functionality
 - The first demo is written with `Python` only
 - The second demo is written with Kivy's `KV` language, as well as a minimal amount of required `Python` boilerplate
- - `KV` is a simple, easy-to-read markup language which is based on`YAML`
+  - `KV` is a simple, easy-to-read markup language based on`YAML`
 
 **Demo 1 (Python):**  
 - `Demos/KivyDemo-Python/main.py`  
