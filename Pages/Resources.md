@@ -1,10 +1,10 @@
 # Kivy Resources  
 
+[**Kivy.org**](https://kivy.org/#home)  
+
 &nbsp;  
 
 ## Setup  
-
-[**Kivy.org**](https://kivy.org/#home)  
 
 [**Kivy - Installation**](https://kivy.org/docs/installation/installation.html)  
 
