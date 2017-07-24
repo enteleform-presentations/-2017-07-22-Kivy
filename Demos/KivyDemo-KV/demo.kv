@@ -1,0 +1,35 @@
+#: import Color kivy.graphics.Color
+#: import datetime datetime.datetime
+
+
+<DemoLayout>:
+  orientation: "vertical"
+  padding:     (500, 200)
+  spacing:     15
+
+  TextInput:
+    id:        input_1
+    multiline: False
+    write_tab: False
+    hint_text: "first name"
+    font_size: 50
+
+  TextInput:
+    id:        input_2
+    multiline: False
+    write_tab: False
+    hint_text: "last name"
+    font_size: 50
+
+  Button:
+    pos_hint:         {"center_x": 0.5, "center_y": 0.5}
+    background_color: Color(0.6, 0.7, 0.8, 1, mode= "hsv").rgba
+    text:             "Button"
+    font_size:        50
+    on_press:
+      root.ids.label.text = "Hello, {} {}!".format(root.ids.input_1.text, root.ids.input_2.text)
+
+  Label:
+    id:        label
+    font_size: 100
+
