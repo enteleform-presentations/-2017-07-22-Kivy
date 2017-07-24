@@ -1,16 +1,16 @@
-# Gauge
+# Garden.Gauge
 
 ![Gauge](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Kivy%20Garden/Gauge.gif?raw=true)
 
 &nbsp;  
 
-# Knob
+# Garden.Knob
 
 ![Knob](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Kivy%20Garden/Knob.png?raw=true)
 
 &nbsp;  
 
-# Rotabox
+# Garden.Rotabox
 
 A widget with rotative collision detection, custom bounds and multitouch interactivity.
 
@@ -20,7 +20,7 @@ A widget with rotative collision detection, custom bounds and multitouch interac
 
 &nbsp;  
 
-# Spine
+# Garden.Spine
 
 A widget that loads and animates Spine assets.&nbsp; Spine allows creation of animations based on skeletons with joint physics.
 
