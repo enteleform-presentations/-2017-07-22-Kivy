@@ -1,12 +1,12 @@
-# Knob
-
-![Knob](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Kivy%20Garden/Knob.png?raw=true)
-
-&nbsp;  
-
 # Gauge
 
 ![Gauge](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Kivy%20Garden/Gauge.gif?raw=true)
+
+&nbsp;  
+
+# Knob
+
+![Knob](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Kivy%20Garden/Knob.png?raw=true)
 
 &nbsp;  
 
