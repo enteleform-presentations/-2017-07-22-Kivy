@@ -42,7 +42,6 @@
   - `KV` is a simple, easy-to-read markup language based on`YAML`
 
 **Demo 1 (Python):**  
-- `Demos/KivyDemo-Python/main.py`  
 - [**`Demos/KivyDemo-Python/main.py`**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Demos/KivyDemo-Python/main.py)   
 
 **Demo 2 (KV):**  
