@@ -6,7 +6,7 @@
 
 ## Setup  
 
-[**Kivy - Installation**](https://kivy.org/docs/installation/installation.html)  
+[**Kivy: Installation**](https://kivy.org/docs/installation/installation.html)  
 
 [**Kivy Garden: Installation**](https://kivy.org/docs/api-kivy.garden.html)  
 [**Kivy Garden: Gallery**](https://kivy-garden.github.io/gallery.html)  
