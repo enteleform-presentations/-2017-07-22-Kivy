@@ -53,5 +53,5 @@
 # Resources:  
 
 - [**Kivy Resources**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Resources.md)  
-- short url:&nbsp; **goo.gl/79hypg**
+- **Short Url:**&nbsp; goo.gl/79hypg
 
