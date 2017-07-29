@@ -8,6 +8,11 @@
 - Platform compatibility  
 - Licensing  
 
+**Examples:**  
+- [**YECO**](https://www.youtube.com/watch?v=aa9LXpg_gd0)  
+- [**Composite Index Modeler**](https://www.youtube.com/watch?v=lUfrOAlS-XY)
+- [**Raspberry Pi Touch Display + GPIO**](https://www.youtube.com/watch?v=Eah3Zq18OyM)
+
 **Demo:**  
 - `kivy/examples/demo/kivycatalog/main.py` ([**@ GitHub**](https://github.com/kivy/kivy/tree/master/examples/demo/kivycatalog))  
 
@@ -54,4 +59,3 @@
 
 - [**Kivy Resources**](https://github.com/enteleform-presentations/-2017-07-22-Kivy/blob/master/Pages/Resources.md)  
 - **Short Url:**&nbsp; goo.gl/79hypg
-
